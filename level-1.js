@@ -66,8 +66,8 @@ function addItemToArray(item) {
     emptyArray.push(item);
 }
 
-addItemToArray('firstItem');
+addItemToArray("firstItem");
 
 console.log(emptyArray);
 
-addItemToArray('simen')
+addItemToArray("simen")
